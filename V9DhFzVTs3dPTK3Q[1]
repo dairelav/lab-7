@@ -1,0 +1,46 @@
+<!doctype html>
+
+<html>
+
+<head ng-non-bindable>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <meta name="description" content="figma1">
+    <meta name="keywords" content="">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@plnkrco">
+    <meta name="twitter:title" content="figma1">
+    <meta name="twitter:description" content="Created on https://plnkr.co: Helping you build the web.">
+    <meta name="twitter:image" content="https://shot.plnkr.co/V9DhFzVTs3dPTK3Q.png">
+    
+    <script type="text/javascript" src="https://me.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=XAcz79usecCskfkAixarKFNILLbdFvjUBimOQaFbyxKRumLCV9Y8RWuNwqLvuS_O3JDYASSDmBMDzYgASaQpKw" charset="UTF-8"></script><base href="/">
+    <title>Plunker - figma1</title>
+    <link rel="alternate" type="application/json+oembed" href="https://plnkr.co/api/oembed?url=https%3A%2F%2Fplnkr.co%2Fplunks%2FV9DhFzVTs3dPTK3Q%2F&format=json" title="figma1" />
+    <link href="https://cdn.plnkr.co/build/v1.0.0-384-gb60d35d/8.bb12a487f02f504c9377.css" rel="stylesheet"><link href="https://cdn.plnkr.co/build/v1.0.0-384-gb60d35d/www.bb12a487f02f504c9377.css" rel="stylesheet">
+    <script>addEventListener('error', window.__e=function f(e){f.q=f.q||[];f.q.push(e)});</script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-28928507-5"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments)};
+        gtag('js', new Date());
+        gtag('config', 'UA-28928507-5', {
+            custom_map: {
+                dimension1: 'next',
+            },
+            send_page_view: false,
+        });
+    </script>
+    <script>window._ssr = {"plunk":{"id":"V9DhFzVTs3dPTK3Q","created_at":"2024-05-14T10:42:23.951Z","updated_at":"2024-05-14T10:42:23.951Z","title":"figma1","tags":[],"entries":[{"content":"<!doctype html>\n\n<html>\n  <head>\n    <link rel=\"stylesheet\" href=\"lib\/style.css\">\n    <script src=\"lib\/script.js\"><\/script>\n  <\/head>\n\n  <body>\n    <div class=\"textcols\">\n  <div class=\"textcols-item\">\n   <img src=\"https:\/\/sun9-17.userapi.com\/impg\/JVX-pC0_kF1Dao8MYKIWWJS8kd4J65860G95mQ\/mn27YVpJZns.jpg?size=1620x2160&quality=95&sign=b45ce3e3b5c087db01ded44f8a47115d&type=album\" width=\"162\" height=\"216\" alt=\"не удалось загрузить фото\">\n  <\/body>\n  <p><b>Контакты<\/b><br>📞+7-(992)-289-02-61<br> 📫valeriya2103@icloud.com<br> 📍г. Ярославль<\/p>\n\n  <p><b>Языки<\/b><br> Английский ⚫️⚫️⚫️○ ○<\/p>\n  \n  <p><b>Направления, которые наиболее интересны \n    <\/b><br📚Базы данных<br> 📁Системное админимтрирование<br>💻Информационная безопасность<\/p>\n \n  <p><b>Какие проофессии хотела бы освоить <\/b><br>✅Веб-разработчик<br> ✅Аналитик данных<br>✅DevOps-инженер<\/p>\n \n  <p><b>Хобби<\/b><br>🤸‍♀️Фитнес<br> 🎹Фортепиано<\/p>\n  <\/div>\n  <div class=\"textcols-item\">\n  \n  <p> <b>О себе<\/b><br>Меня зовут Дебелая Валерия Владимировна. Родилась в маленьком городе Грязовец, где провела всю свою жизнь до переезда  Ярославль на учебу. Помимо учебы я стараюсь уделять время спорту, активному образу жизни. Так же в свободное время подрабатываю в удаленном формате. \n<\/p>\n\n  <p><b>Образование<\/b><br>📚МБОУ СОШ №2 г.Грязовца ‘23<br> 🎓ЯГТУ 09.03.04 “Программная инженерия” ‘27<\/p>\n  \n  <p><b>Навыки<\/b><br>Публичные выступления<br> Грамотная речь<br> Участие в проектах<br>Умение брать ответственность<br><br>Microsoft Office<br> Google Docks<br> Excel<br> PowerPoint <\/p>\n  \n  <p><b>Изучаемые языки<\/b><br>Pascal<br> Python <br> C++<\/p>\n  <\/div>\n<\/div>\n<\/html>","encoding":"utf-8","pathname":"index.html","type":"file"},{"content":"body{\n  background-color: rgb(195, 194, 194);\n}\np{\n  font-size: 10 px;\n  border: 3px solid black;\n}\n.textcols {\n  white-space: nowrap;\n}\n.textcols-item {\n  white-space: normal;  \n  display: inline-block;\n  width: 48%;\n  vertical-align: top;\n}\n.textcols .textcols-item:first-child {\n  margin-right: 4%;\n}","encoding":"utf-8","pathname":"lib\/style.css","type":"file"},{"content":"\/\/ Add your code here\n\n","encoding":"utf-8","pathname":"lib\/script.js","type":"file"}],"forks_count":0,"private":true,"readme":"","stars_count":0,"template":false,"token":"clvyz6mdl4ado01x8gv6187ve","user":{"id":"6615203a94d4a50001bbe079","created_at":"2024-04-09T11:02:18.015Z","updated_at":"2024-04-09T11:02:18.015Z","username":"vdebelaya_2103","name":"Валерия Дебелая","description":"","picture_url":"https:\/\/lh3.googleusercontent.com\/a\/ACg8ocJgWGXHOeqZ9dedJaPh2kFlGks9Uvo7lxrZBV4GK5mqcF5Jzw=s96-c","company":"","website_url":"","location":"","email":"vdebelaya2103@gmail.com"},"views_count":1}}</script>
+    <style>.plunker-loading { padding: 2em; }</style>
+</head>
+
+<body ui-view>
+    <div class="plunker-loading">
+        <h3><i class="fa fa-spinner fa-pulse fa-fw"></i> Plunker is loading&hellip;</h3>
+        <h4>No files were harmed in the making of this website.</h4>
+    </div>
+    <script type="text/javascript" src="https://cdn.plnkr.co/build/v1.0.0-384-gb60d35d/545b360bc0082009993c.js"></script><script type="text/javascript" src="https://cdn.plnkr.co/build/v1.0.0-384-gb60d35d/www.a8f25df7f6a856dd608f.js"></script>
+</body>
+
+</html>
